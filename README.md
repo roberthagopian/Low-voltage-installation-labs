@@ -1,4 +1,4 @@
-<h1>Termination of 100-pair Telco Cable on IDC 110</h1>
+<h1>Punchdown of 100-pair Telco Cable on IDC 110</h1>
 
  ###
 ![alt text](https://i.imgur.com/1fVcK84.jpeg)
